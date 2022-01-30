@@ -33,7 +33,7 @@ What do you want to build/clean?\n
 2. Buffer unit tests for Clear (use clang++ compiler)
 """)
 
-ans="2"
+ans= "2"
 
 if ans=="1":
 	print("\nOK, building buffer unit tests.")
